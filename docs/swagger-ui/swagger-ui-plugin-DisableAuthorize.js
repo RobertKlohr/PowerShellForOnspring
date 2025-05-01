@@ -1,7 +1,8 @@
 const DisableAuthorizePlugin = function() {
   return {
     wrapComponents: {
-      AuthorizeBtn: () => () => null
+      AuthorizeBtn: () => () => null,
+      auth-wrapper: () => () => null,
     }
   }
 }
