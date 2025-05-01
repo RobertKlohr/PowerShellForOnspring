@@ -7,9 +7,7 @@
     },
     "servers": [
         {
-            "url": "https://api.onspring.com",
-            "description": "Onspring GRC API"
-        }
+            "url": "https://api.onspring.com"        }
     ],
     "paths": {
         "/Apps": {
