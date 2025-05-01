@@ -19,12 +19,7 @@
         {
             "url": "https://api.onspring.com",
             "description": "Production API (uses live data)"
-        },
-        {
-            "url": "http://cors.io/?https://api.onspring.com",
-            "description": "CORS Production API (uses live data)"
         }
-
     ],
     "paths": {
         "/Apps": {
