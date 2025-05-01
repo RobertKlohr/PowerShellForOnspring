@@ -2,7 +2,7 @@
     "openapi": "3.0.1",
     "info": {
         "title": "Onspring API Version 2",
-        "description": "Version 2 of the Onspring API.\r\n\r\nThis version has been updated with the following changes from the original posted at https://api.onspring.com/swagger/v2/swagger.json.\r\n1. Added defaults and examples for properties with defaults.\r\n2. Fixed capitalization in Schema entries to ensure required fields are displayed.\r\n3. Removed invalid Content-Type entries Paths with request bodies.\r\n4. Changed all instances of the PageNumber property to have a minimum value of 1.\r\n5. Changed all instances of the PageSize property to have a minimum value of 1.\r\n6. The Aurhoriztion and Try It Out buttons have been hidden since the API will not work from this page due to CORS.\r\n\r\nAuthorization header name 'X-ApiKey'.",
+        "description": "Version 2 of the Onspring API.\r\n\r\nThis version has been updated with the following changes from the original posted at [https://api.onspring.com/swagger/](https://api.onspring.com/swagger/).\r\n1. Added defaults and examples for properties with defaults.\r\n2. Fixed capitalization in Schema entries to ensure required fields are displayed.\r\n3. Removed invalid Content-Type entries Paths with request bodies.\r\n4. Changed all instances of the PageNumber property to have a minimum value of 1.\r\n5. Changed all instances of the PageSize property to have a minimum value of 1.\r\n6. The Aurhoriztion and Try It Out buttons have been hidden since the API will not work from this page due to CORS.\r\n\r\nAuthorization header name 'X-ApiKey'.",
         "termsOfService": "https://onspring.com",
         "contact": {
             "name": "Onspring Help",
