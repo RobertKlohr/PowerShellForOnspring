@@ -13,8 +13,8 @@ window.onload = function ()
         ],
         plugins: [
             SwaggerUIBundle.plugins.DownloadUrl,
-            DisableTryItOutPlugin
-	    // DisableAuthorizePlugin	
+            DisableTryItOutPlugin,
+	    DisableAuthorizePlugin	
         ],
         layout: "StandaloneLayout"
     });
