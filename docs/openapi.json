@@ -18,7 +18,7 @@
     "servers": [
         {
             "url": "https://api.onspring.com",
-            "description": "Production API (uses live data)"
+            "description": "Onspring GRC API"
         }
     ],
     "paths": {
