@@ -12,7 +12,9 @@ window.onload = function ()
             SwaggerUIStandalonePreset
         ],
         plugins: [
-            SwaggerUIBundle.plugins.DownloadUrl
+            SwaggerUIBundle.plugins.DownloadUrl,
+            DisableAuthorizePlugin,
+			DisableTryItOutPlugin
         ],
         layout: "StandaloneLayout"
     });
